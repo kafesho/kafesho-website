@@ -9,7 +9,7 @@ title = "Kafesho"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
+  logo = "images/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Kafesho"
 [params.author]
   name = "Kafesho"
   email = "contact@kafesho.com"
-  image = "img/kafesho_logo.png"
+  image = "images/kafesho_logo.png"
 #   imageQuality = 96
 headline = "Just a game dev"
    bio = "I'm an open-book mystery. A real Sasuke."
