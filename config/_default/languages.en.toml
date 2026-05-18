@@ -11,7 +11,7 @@ title = "Kafesho"
   dateFormat = "2 January 2006"
   logo = "images/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "Just a game dev."
+  description = "Lazy game dev"
   copyright = "© Copyright Kafesho"
 
 [params.author]
